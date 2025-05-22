@@ -3,13 +3,6 @@
 
 # 📊 Simple SQLite Sales Dashboard in Python
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![SQLite](https://img.shields.io/badge/SQLite-Built--in-orange)
-![Jupyter](https://img.shields.io/badge/Works%20in-Jupyter%20Notebook-green)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
-
-> **Interactive and Animated Sales Summary Dashboard using Python + SQLite + Matplotlib**
-
 ---
 
 ## 🎯 Project Goal
@@ -31,12 +24,6 @@ Build a lightweight **sales analysis tool** using only built-in Python libraries
 - 💡 Perfect starter project for data beginners
 
 ---
-
-## 🚀 Demo Preview
-
-<img src="https://user-images.githubusercontent.com/your-username/sample-bar-chart.gif" width="600"/>
-
-<sub>👆 Replace with your own GIF showing chart animation.</sub>
 
 ---
 
